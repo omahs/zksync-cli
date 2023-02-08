@@ -25,7 +25,7 @@ You can install this program globally with `npm i -g zksync-cli` or run the comm
 
 ### Install and build
 
-Install all dendencies with `npm i`.
+Install all dependencies with `npm i`.
 This project was build with Typescript. Run `npm run build` to compile code in `/src` into `/bin`.
 
 To create a version run:
@@ -37,7 +37,7 @@ git push --tags
 
 ### Testing
 
-Proper tests will be included soon. For now, you can test new changes locally by installing this package globably with `npm i -g`.
+Proper tests will be included soon. For now, you can test new changes locally by installing this package globally with `npm i -g`.
 
 ## Official Links
 
